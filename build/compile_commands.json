@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/ccb/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ccb/chat/include -I/home/ccb/chat/include/server -I/home/ccb/chat/include/client  -g -g   -o CMakeFiles/ChatServer.dir/chatserveice.cpp.o -c /home/ccb/chat/src/server/chatserveice.cpp",
+  "file": "/home/ccb/chat/src/server/chatserveice.cpp"
+},
+{
+  "directory": "/home/ccb/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ccb/chat/include -I/home/ccb/chat/include/server -I/home/ccb/chat/include/client  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/ccb/chat/src/server/chatserver.cpp",
+  "file": "/home/ccb/chat/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/ccb/chat/build/src/server",
+  "command": "/usr/bin/g++   -I/home/ccb/chat/include -I/home/ccb/chat/include/server -I/home/ccb/chat/include/client  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/ccb/chat/src/server/main.cpp",
+  "file": "/home/ccb/chat/src/server/main.cpp"
+}
+]
